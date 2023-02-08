@@ -1,0 +1,12 @@
+---
+title: "STOR 565 Project Website"
+---
+
+Welcome to our project page. As the project progresses, this website will expand to document and communicate the data, methods, and findings of our project.
+
+## Team members
+- Garrison Bullard
+- Minsoo Kan
+- Leo McNicholas
+- Ali Shamsulhodaey
+- Winfield Warren
