@@ -2,7 +2,7 @@
 title: "STOR 565 Project Website"
 ---
 
-Welcome to our project page. As our project progresses, this website documents and communicates everything!
+Welcome. This website documents our Machine Learning project.
 
 ## Team members
 
