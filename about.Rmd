@@ -2,4 +2,4 @@
 title: "About this project."
 ---
 
-Read about out ML project here! More information soon.
+Read about out machine learning project here! More information soon.
