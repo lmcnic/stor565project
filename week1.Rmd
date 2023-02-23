@@ -1,0 +1,38 @@
+---
+title: "Biweekly Report 1"
+subtitle: "February 22, 2023"
+---
+
+### Team roles for this report:
+
+-   Facilitator(s): Garrison Bullard
+-   Recorder(s): Leo McNicholas
+-   Deliverer(s): Minsoo Kang
+-   Planner(s): Ali Shamsulhodaey, Winfield Warren
+-   Team contact(s): [Winfield Warren](mailto:winfieldwarren@unc.edu){.email}
+
+## 0.
+
+#### Describe briefly what the main goal of your team is (so the peer reviewer has some context). E.g. we are working on image classification for blah de blah. Our goal is blah de blah etc. In the initial part of the semester before your proposal it is ok to put down "we are still coming up with ideas on team project".
+
+We are still refining our project ideas, but we are interested in image processing and PCA. We are curious about working with faces.
+
+## I.
+
+#### What was done during the report period regarding the project: If you want to include code include this in the Appendix. Describe what the group did (including contributions of individual team members) with regards to the group project during this report period. Give enough details so I understand what you folks have been doing over the week. Include dates of your meeting(s) and who met on these days.
+
+February 22: Everyone contributed to group brainstorm and planning for next week/meeting. We examined pros and cons as well as potential controversies for each proposed ML application.
+
+One idea proposed by Garrison was "Look like your favorite movie star!" Pictures are transformed to the style of celebrities. We would use a PCA dataset with faces of celebrities replacing the least important PCs of a person's picture with the celebrity PCs. Leo proposed a website application of "Look like your favorite movie star!" where individuals can upload a picture of their choice and be transformed into a celebrity of their choosing.
+
+## II.
+
+#### What were obstacles faced if any in working on the project? This could be technical (like not being able to implement or understand particular techniques) or time issues (midterms for other courses etc).
+
+A large concern with this project is the potential for insensitive applications of this technology. How should this tool respond when a white person attempts to transform their features into the style of a Black celebrity? There are many ethical implications to consider before we develop this project.
+
+## III.
+
+#### What is the plan for the next reporting period including what each team member is planning to work on. Describe goals and potential timelines ("I plan to finish understanding x to see if it can be implemented for our project by Wednesday etc".)
+
+Each team member will brainstorm alternative project ideas/image processing applications with less potential for misuse. Leo plans to add the first biweekly report to the project website.
