@@ -1,5 +1,5 @@
 ---
-title: "About this project."
+title: "About this project"
 ---
 
 Read about out machine learning project here! More information soon.
