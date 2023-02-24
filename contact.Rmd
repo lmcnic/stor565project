@@ -1,3 +1,6 @@
+---
+title: "Contact us!"
+---
 <form action="URL to form script" method="POST">
 
 Your name: <br>
