@@ -5,3 +5,13 @@ title: "About this project"
 Read about out machine learning project here! More information soon.
 
 <a href="contact.html">Contact us</a> with any questions.
+<br>
+<br>
+
+## <a href="daa.html">Data</a>
+
+## <a href="methods.html">Methods</a>
+
+## <a href="bib.html">Refrences</a>
+
+

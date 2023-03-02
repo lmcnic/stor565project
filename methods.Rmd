@@ -1,0 +1,4 @@
+---
+title: "Methods"
+---
+Read about our methodology here.
