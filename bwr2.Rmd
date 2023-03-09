@@ -1,0 +1,37 @@
+---
+title: "Biweekly Report 2"
+subtitle: "March 10, 2023"
+---
+
+### Team roles for this report:
+
+-   Facilitator(s): Winfield Warren
+-   Recorder(s): Garrison Bullard
+-   Deliverer(s): Leo McNicholas
+-   Planner(s): Ali Shamsulhodaey, Minsoo Kang
+-   Team contact(s): [Winfield Warren](mailto:winfieldwarren@unc.edu){.email}
+
+## 0.
+
+#### Describe briefly what the main goal of your team is (so the peer reviewer has some context). E.g. we are working on image classification for blah de blah. Our goal is blah de blah etc. In the initial part of the semester before your proposal it is ok to put down "we are still coming up with ideas on team project".
+
+Our goal is to create a web application that takes any given photo of a face and turns it into a portrait in the style of one any artist that we train the model to.
+
+## I.
+
+#### What was done during the report period regarding the project: If you want to include code include this in the Appendix. Describe what the group did (including contributions of individual team members) with regards to the group project during this report period. Give enough details so I understand what you folks have been doing over the week. Include dates of your meeting(s) and who met on these days.
+
+We found a database of thousands of portraits from several famous artists. We have read these into R and performed some exploratory data analysis. We have also looked into various methods that may give us the desired results. We have found two possible options, although they are originally for slightly different problems (which is good: it means our work is not redundant). We will need to figure out how to code them in R and make them work for our purposes.
+
+## II.
+
+#### What were obstacles faced if any in working on the project? This could be technical (like not being able to implement or understand particular techniques) or time issues (midterms for other courses etc).
+
+We had slight issues scheduling, but it worked out, we just had to meet late at night. We had trouble reading the data into R, but after lots of work figured it out.
+
+## III.
+
+#### What is the plan for the next reporting period including what each team member is planning to work on. Describe goals and potential timelines ("I plan to finish understanding x to see if it can be implemented for our project by Wednesday etc".)
+
+Our plan now is to attempt coding each of the two potential paths we have, starting with the PCA method. If it is difficult then we need lots of time to figure it out. If it works easily, we can use the extra time to fine-tune or even add another feature to our website.
+Garrison and Minsoo will try the PCA method, Leo and Ali will start on the second, more complex method. Winfield will make sure everyone is on track and assist with either pair’s coding problems as needed, and schedule our next meeting
