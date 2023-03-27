@@ -8,6 +8,8 @@ Read about out machine learning project here! More information soon.
 <br>
 <br>
 
+#### <a href="prop.html">Read our project proposal.</a>
+
 ## <a href="daa.html">Data</a>
 
 ## <a href="methods.html">Methods</a>

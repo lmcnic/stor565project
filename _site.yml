@@ -18,8 +18,8 @@ navbar:
         
     - text: "Bi-Weekly Reports"
       href: bi.html
-    - text: "Contact"
-      href: contact.html
+   # - text: "Contact"
+     # href: contact.html
 output:
   html_document:
     theme: cerulean
