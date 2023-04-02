@@ -1,0 +1,39 @@
+---
+title: "Biweekly Report 3"
+subtitle: "March 31, 2023"
+---
+
+### Team roles for this report (write down name):
+- Facilitator(s): Leo McNicholas
+- Recorder(s): Minsoo Kang
+- Deliverer(s): Winfield Warren
+- Planner(s): Garrison Bullard, Ali Shamsulhodaey
+- Team Contact: [Garrison Bullard](mailto:gbullard@live.unc.edu){.email}
+
+## 0.
+
+#### Describe briefly what the main goal of your team is (so the peer reviewer has some context). E.g. we are working on image classification for blah de blah. Our goal is blah de blah etc. In the initial part of the semester before your proposal it is ok to put down "we are still coming up with ideas on team project".
+
+Our goal is to make a web app that takes in a picture of any face and returns it as a portrait in the style of a particular artist.
+
+## I.
+
+#### What was done during the report period regarding the project: If you want to include code include this in the Appendix. Describe what the group did (including contributions of individual team members) with regards to the group project during this report period. Give enough details so I understand what you folks have been doing over the week. Include dates of your meeting(s) and who met on these days.
+
+Garrison and Ali started work on the PCA model, while Winfield, Minsoo and Leo worked on the alternative GAN model. Neither model was finished, but they are both on track. 
+
+## II.
+
+#### What were obstacles faced if any in working on the project? This could be technical (like not being able to implement or understand particular techniques) or time issues (midterms for other courses etc).
+
+Spring break broke up progress a good bit, as did assignments/tests on either side of it, but we are making decent progress despite that.
+
+Also, our dataset is too large to run into R on our laptops, so we need to figure out a way to either use Longleaf, or to only load data for the specific artist we are interested in at a given moment. 
+
+## III.
+
+#### What is the plan for the next reporting period including what each team member is planning to work on. Describe goals and potential timelines ("I plan to finish understanding x to see if it can be implemented for our project by Wednesday etc".)
+
+Garrison and Ali will try to get a baseline output from the PCA model (that can be tweaked later) and the rest will do the same with the GAN model. Pretty much everything is coding at this point. Leo will investigate the longleaf cluster option, and if that doesn’t pan out we will try to selectively load subsets of the data.
+
+
