@@ -1,0 +1,35 @@
+---
+title: "Biweekly Report 4"
+subtitle: "April 14, 2023"
+---
+
+### Team roles for this report (write down name):
+- Facilitator(s): Ali Shamsulhodaey
+- Recorder(s): Winfield Warren
+- Deliverer(s): Leo McNicholas
+- Planner(s): Garrison Bullard, Minsoo Kang
+- Team Contact: [Leo McNicholas](mailto:lmcnic@live.unc.edu){.email}
+
+## 0.
+
+#### Describe briefly what the main goal of your team is (so the peer reviewer has some context). E.g. we are working on image classification for blah de blah. Our goal is blah de blah etc. In the initial part of the semester before your proposal it is ok to put down "we are still coming up with ideas on team project".
+
+We are creating “style transfer” models to turn pictures into paintings in the style of a given artist/painting. One model applies a sort of “painting filter” to the image and the other one synthesizes a new image.
+
+## I.
+
+#### What was done during the report period regarding the project: If you want to include code include this in the Appendix. Describe what the group did (including contributions of individual team members) with regards to the group project during this report period. Give enough details so I understand what you folks have been doing over the week. Include dates of your meeting(s) and who met on these days.
+
+Garrison and Ali completed the “filter” model using SVD. It works decently, but has some limitations. Leo, Minsoo, and Winfield worked on the GAN model, and figured out how to use longleaf to import the large dataset. We met on Wednesday 4/5, and after each class period since.
+
+## II.
+
+#### What were obstacles faced if any in working on the project? This could be technical (like not being able to implement or understand particular techniques) or time issues (midterms for other courses etc).
+
+The SVD model will not print in color for some reason even though RGB values are supplied in the correct format. The GAN model is difficult and hard to work on collaboratively (we are using google colab though). 
+
+## III.
+
+#### What is the plan for the next reporting period including what each team member is planning to work on. Describe goals and potential timelines ("I plan to finish understanding x to see if it can be implemented for our project by Wednesday etc".)
+
+Garrison is working on getting the SVD model to print in color, while everyone else is working on the GAN model trying to get it trained and working!
