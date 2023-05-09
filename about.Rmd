@@ -2,7 +2,7 @@
 title: "About this project"
 ---
 
-Read about out machine learning project here! More information soon.
+Read about out machine learning project here!
 
 <a href="contact.html">Contact us</a> with any questions.
 <br>
@@ -10,8 +10,4 @@ Read about out machine learning project here! More information soon.
 
 #### <a href="prop.html">Read our project proposal.</a>
 
-## <a href="daa.html">Data</a>
-
-## <a href="methods.html">Methods</a>
-
-## <a href="bib.html">Refrences</a>
+#### <a href="final.pdf">Read our final project writeup.</a>

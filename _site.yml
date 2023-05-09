@@ -6,16 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "About"
-      menu:
-      - text: "About"
-        href: about.html
-      - text: "Data"
-        href: data.html
-      - text: "Methods"
-        href: methods.html
-      - text: "Refrences"
-        href: bib.html
-        
+      href: about.html
     - text: "Bi-Weekly Reports"
       href: bi.html
    # - text: "Contact"
